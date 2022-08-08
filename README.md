@@ -1,2 +1,2 @@
-# Fun-Project-Modeling
-Projects
+# Modeling/Application-using-ML-algorithms-developed-from-scratch
+
